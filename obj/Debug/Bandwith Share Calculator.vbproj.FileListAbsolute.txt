@@ -1,0 +1,15 @@
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\bin\Debug\Bandwith Share Calculator.exe.config
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\bin\Debug\Bandwith Share Calculator.exe
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\bin\Debug\Bandwith Share Calculator.pdb
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\bin\Debug\Bandwith Share Calculator.xml
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.vbprojAssemblyReference.cache
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith_Share_Calculator.MainWindow.resources
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith_Share_Calculator.Resources.resources
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.vbproj.GenerateResource.cache
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.vbproj.CoreCompileInputs.cache
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.exe
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.xml
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith Share Calculator.pdb
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith_Share_Calculator.BandwidthNeedCalc.resources
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith_Share_Calculator.AboutApp.resources
+D:\arson\source\repos\Bandwith Share Calculator\Bandwith Share Calculator\obj\Debug\Bandwith_Share_Calculator.SplashScreen.resources
